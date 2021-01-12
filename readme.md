@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # Boise Codeworks: Gregslist API
 
@@ -12,4 +12,4 @@ Our project today included creating an API to handle data transfers between the 
 | Date:     | January 12, 2021                  |
 | Position: | Week 5, Day 2                     |
 
-</center>
+</div>
