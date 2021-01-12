@@ -1,6 +1,8 @@
 <div align="center">
 
-# Boise Codeworks: Gregslist API
+## Boise Codeworks: Gregslist API
+
+<hr/>
 
 Our project today included creating an API to handle data transfers between the client and the MongoDB database. I finished it quickly and decided to write some front-end code as well to display the data in an acceptable format.
 
